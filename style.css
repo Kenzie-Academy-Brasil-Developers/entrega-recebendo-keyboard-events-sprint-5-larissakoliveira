@@ -1,0 +1,22 @@
+#box { 
+    width: 120px; 
+    height: 120px; 
+    position: absolute; 
+    background: gray; 
+    left: 200px; 
+    top: 200px; 
+}
+
+body {
+    background-color: aquamarine;
+}
+
+img{
+    border-radius: 50%;
+}
+button {
+    border-radius: 5px;
+    padding: 5px;
+    background-color: black;
+    color: aqua;
+}
